@@ -1,0 +1,25 @@
+body {
+    background-color: #222;
+    color:whitesmoke;
+    font-family: 'Helvetica Neue';
+    text-align: center;
+}
+
+#qr {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 41.05%;
+}
+
+#btn {
+    background-color: snow;
+    border-radius: 10%;
+    border-color: #333;
+    font-family: 'Helvetica Neue';
+}
+
+#text {
+    background-color: snow;
+    font-family: 'Helvetica Neue';
+    border-radius: 10%;
+}
