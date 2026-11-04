@@ -8,3 +8,6 @@
 # Node / TypeScript
 node_modules/
 *.log
+
+# Useless Folders
+Favicon/
