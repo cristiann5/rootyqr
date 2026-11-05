@@ -6,10 +6,13 @@ body {
 }
 
 #qr {
-    padding-top: 15px;
-    padding-bottom: 15px;
-    padding-left: 41.05%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+    min-height: 256px;
 }
+
 
 #btn {
     background-color: snow;
